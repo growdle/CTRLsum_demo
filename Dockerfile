@@ -1,1 +1,1 @@
-FROM sangholee0301/ctrlsum_demo:0.0
+FROM sangholee0301/ctrlsum_demo:0.1
